@@ -46,10 +46,6 @@ match option:
     case _:
         print("Invalid option")
 
-'''# GCD and LCM calculating
-
-num1=int(input("enter your 1st number: "))
-num2=int(input("enter your 2nd number: "))
 
 if num1%num2 !=0:
     remainder= num1%num2'''
