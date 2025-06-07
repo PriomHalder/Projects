@@ -1,6 +1,6 @@
 # making a pyramid
 
-'''n=5
+n=5
 i=0
 while(i<n):
     j=0
@@ -32,4 +32,4 @@ while(i<n):
         print("* ",end="")
         k=k+1
     print("")
-    i=i+1'''
+    i=i+1
